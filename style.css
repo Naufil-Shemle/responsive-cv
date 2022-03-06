@@ -12,7 +12,7 @@
   --lighter: #c996cc;
 }
 
-body {
+.cv {
   background-color: var(--lighter);
 
   min-height: 100vh;
@@ -136,7 +136,7 @@ body {
 }
 
 .contactInfo ul li span {
-  color: var(--lighter);
+  color: #fff;
   font-weight: 300;
 }
 
